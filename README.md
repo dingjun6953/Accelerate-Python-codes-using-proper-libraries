@@ -16,3 +16,7 @@ Conclusion: the Generalized Linear Regression outperforms the Linear Regression 
 Investigations on the differences between Panadas and PySpark. 
 
 All datasets can be requested for you to download. Please email me and leave me an message. 
+
+
+***********Note**********
+Add a support vecotr classfier for the breast cancer dataset in SKlearn datasets
