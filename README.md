@@ -1,5 +1,5 @@
 # Accelerate-Python-codes-using-proper-libraries
-This powerpoint slides demostrate how to accelerate python codes using some libraries. 
+This powerpoint slides given in this repository demostrate how to accelerate python codes using some libraries. 
 In particular, Just-In-Time compilation is used for acceleration. 
 More investigations will be made soon and the investigation results will be uploaded here for share. 
 
@@ -37,7 +37,7 @@ Add a support vecotr classfier for the breast cancer dataset in SKlearn datasets
 
 
 1. Data Analyses of a CSV file using 3 different regression algorithms from PySpark ML library. 
-Linear regression and Generalized liear regression and Greadient boosted tree regression.
+Linear regression and Generalized liear regression and Gradient boosted tree regression.
 
 
 2. Data Analyses on a data file IRIS from SKLearn using 3 different multi-class classifiers from PySpark ML library
