@@ -1,5 +1,5 @@
 # Accelerate-Python-codes-using-proper-libraries
-This powerpoint slides given in this repository demostrate how to accelerate python codes using some libraries. 
+This powerpoint slides (in PDF file) given in this repository demostrate how to accelerate python codes using some libraries. 
 In particular, Just-In-Time compilation is used for acceleration. 
 More investigations will be made soon and the investigation results will be uploaded here for share. 
 
